@@ -1,0 +1,4 @@
+Quero fazer desse repositório meu caderno de anotações sobre Git/Github, irei alimentar o mesmo de diversas informações, dicas, tutoriais, tudo isso com relação a plataforma. 
+Sempre que houver uma dúvida, irei adiciona-la aqui e pesquisar sobre, fazendo desse repósitório, meu caderno de Git/GitHub.
+
+Espero também poder contribuir com a plataforma, adquirir conhecimento para ajudar os demais usuários.
